@@ -1,0 +1,37 @@
+.a1{
+	background-color:pink;
+	height:100px;
+	width:1000px;
+	text-align:center;
+	color:blue;
+	vertical-align:middle;
+	display:table-cell;
+	border-radius:25px;
+}
+.a2{
+	height:200px;
+	width:1000px;
+	text-align:center;
+	color:grey;
+	vertical-align:middle;
+	font-size:50px;
+}
+.a3{
+	height:200px;
+	width:1000px;
+	text-align:center;
+}
+.button{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 25px 100px;
+	margin-top:50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 4px 2px;
+    cursor: pointer;
+	text-align:center;
+}

@@ -1,0 +1,41 @@
+.top{
+	width:1000px;
+	height:200px;
+	background-color:#1E90FF;
+	text-align:center;
+	vertical-align:middle;
+	font-family: "Times New Roman", Georgia, Serif;
+	color:#C71585;
+	font-size:40px;
+	text-shadow:2px 2px #8B0000;
+	display:table-cell;
+	border-radius:15px;
+}
+.mid{
+	width:1000px;
+	height:200px;
+	text-align:center;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size:30px;
+	color:red;
+}
+.bottom{
+	width:1000px;
+	height:100px;
+	text-align:center;
+}
+.button{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 25px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+	text-align:center;
+}
+	
+	
